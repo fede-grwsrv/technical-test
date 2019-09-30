@@ -16,6 +16,7 @@ verifier:
       controls:
         - bucket_check
         - file_check
+        - http_test
 
 platforms:
   - name: terraform

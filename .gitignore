@@ -4,3 +4,4 @@ terraform.tfvars
 *.lock
 .kitchen
 .kitchen.local.yml
+kubeconfig*
